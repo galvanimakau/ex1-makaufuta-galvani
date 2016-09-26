@@ -2,3 +2,6 @@ test
 1ste verandering
 verandering in develop
 2de verandering in develop
+verandering in feature-1
+2de verandering in feature-1
+laatste verandering in develop
